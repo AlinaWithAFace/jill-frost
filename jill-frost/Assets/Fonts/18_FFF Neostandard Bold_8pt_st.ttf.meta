@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d832d64cb4bc670489a632a88c4a8c7a
+timeCreated: 1511560852
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FFF Neostandard Bold_8pt_st
+  fontNames:
+  - FFF Neostandard Bold_8pt_st
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
