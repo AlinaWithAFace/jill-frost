@@ -2,11 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Floor : MonoBehaviour {
-
-	public Texture2D[] Images;
-
-
+public class GameManger : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
@@ -17,6 +13,4 @@ public class Floor : MonoBehaviour {
 	void Update () {
 		
 	}
-
-
 }
